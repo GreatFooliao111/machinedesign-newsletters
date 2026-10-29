@@ -6,6 +6,42 @@
       "country": "USA",
       "type": "Technical Editorial & Product Spotlights"
     },
+    "design-news": {
+      "name": "Design News (Informa Markets)",
+      "website": "https://www.designnews.com",
+      "country": "USA",
+      "type": "Mechanical Design, Motion Control & Automation"
+    },
+    "assembly-magazine": {
+      "name": "ASSEMBLY Magazine (BNP Media)",
+      "website": "https://www.assemblymag.com",
+      "country": "USA",
+      "type": "Assembly Systems, Fastening, Robotics & Sensors"
+    },
+    "food-engineering": {
+      "name": "Food Engineering Magazine (BNP Media)",
+      "website": "https://www.foodengineeringmag.com",
+      "country": "USA",
+      "type": "Food Processing Lines, Plant Operations & Packaging Machinery"
+    },
+    "packaging-strategies": {
+      "name": "Packaging Strategies (BNP Media)",
+      "website": "https://www.packagingstrategies.com",
+      "country": "USA",
+      "type": "Packaging Machinery, Converting & Flexible Packaging"
+    },
+    "beverage-industry": {
+      "name": "Beverage Industry (BNP Media)",
+      "website": "https://www.bevindustry.com",
+      "country": "USA",
+      "type": "Bottling, Filling, Capping & Beverage Machinery"
+    },
+    "dairy-foods": {
+      "name": "Dairy Foods (BNP Media)",
+      "website": "https://www.dairyfoods.com",
+      "country": "USA",
+      "type": "Dairy Processing, Packaging & Membrane Technology"
+    },
     "surplex": {
       "name": "Surplex Industrial Auctions",
       "website": "https://www.surplex.com",
@@ -43,13 +79,13 @@
       "pillar": "Pillar 2: Factory Troubleshooting & Optimization"
     },
     "packaging": {
-      "title_fa": "ماشین‌آلات بسته‌بندی و پرکن",
+      "title_fa": "ماشین‌آلات بسته‌بندی، پرکن و کانوایرها",
       "title_en": "Packaging & Filling Machinery",
       "pillar": "Pillar 1: Machine Design & Production Lines"
     },
     "food-machinery": {
-      "title_fa": "ماشین‌آلات صنایع غذایی و فرآوری",
-      "title_en": "Food Processing & Baking Machinery",
+      "title_fa": "ماشین‌آلات صنایع غذایی، نوشیدنی و لبنیات",
+      "title_en": "Food Processing, Beverage & Dairy Machinery",
       "pillar": "Pillar 1: Machine Design & Production Lines"
     },
     "design-simulation": {
