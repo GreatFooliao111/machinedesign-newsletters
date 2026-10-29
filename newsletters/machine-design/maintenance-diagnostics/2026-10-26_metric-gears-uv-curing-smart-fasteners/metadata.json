@@ -1,0 +1,101 @@
+{
+  "project_name": "Machine Design Product Spotlight (Oct 26, 2026) - KHK Metric Gears, Dymax UV Line Emitters & Pivot Point Smart Fasteners",
+  "slug": "metric-gears-uv-curing-smart-fasteners",
+  "category": "maintenance-diagnostics",
+  "date": "2026-10-26",
+  "received_at": "2026-10-26T12:01:59Z",
+  "email_metadata": {
+    "message_id": "M6e52db760254c0255148ae58",
+    "thread_id": "Tffa10297093dcb37",
+    "from": "Machine Design <MD@news.endeavorb2b.com>",
+    "to": "hoseinvatandoust@atomicmail.ai",
+    "subject": "Machine Design Product Spotlight",
+    "preview": "Product Spotlight - Oct 26th, 2026 | Light-Curing Energy Along a Linear Path for High-Dose UV Irradiation...",
+    "source_publisher": "Endeavor Business Media / Machine Design",
+    "sponsors": [
+      "Dymax Corporation",
+      "KHK USA Inc. (Kohara Gear Industry)",
+      "Pivot Point Inc."
+    ]
+  },
+  "engineering_pillars": [
+    "Pillar 1: Machine Design & Production Lines (طراحی ماشین‌آلات و خطوط تولید - استانداردسازی چرخ‌دنده‌ها، مکانیزم‌های انتقال قدرت و طراحی برای ساخت DFMA)",
+    "Pillar 2: Factory Troubleshooting & Line Optimization (مشاوره فنی، عیب‌یابی ارتعاشات و رفع توقف خطوط - حذف ارتعاشات مخرب و جلوگیری از رها شدن اشپیل‌ها)",
+    "Pillar 3: Industrial R&D & Prototyping (تحقیق، توسعه و امکان‌سنجی خطوط مونتاژ سرعت‌بالا، پخت چسب و کوتینگ پیوسته UV LED)"
+  ],
+  "technical_specifications": {
+    "dymax_uv_emitters": {
+      "model_series": "BlueWave® FX Line Emitters (FX-725 & FX-1525)",
+      "peak_irradiance": "Up to 4.2 W/cm² (4200 mW/cm²) uniform linear energy",
+      "active_lengths": [
+        "75 mm (FX-725)",
+        "150 mm (FX-1525)"
+      ],
+      "wavelengths": [
+        "365 nm",
+        "385 nm",
+        "405 nm"
+      ],
+      "controllers": "Dymax FX Series intelligent controllers",
+      "thermal_profile": "Cold-cure solid-state LED arrays, zero thermal distortion on thin polymers and delicate optics",
+      "automation_integration": "Direct mountable over inline conveyors, indexing rotary tables, and multi-axis gantry robots"
+    },
+    "khk_metric_gears": {
+      "manufacturer": "KHK USA / Kohara Gear Industry",
+      "stock_catalog": "Over 27,000 off-the-shelf metric configurations",
+      "supported_profiles": [
+        "Spur Gears (چرخ‌دنده ساده مستقیم)",
+        "Helical Gears (چرخ‌دنده مارپیچ کم‌صدا)",
+        "Internal & Ring Gears (چرخ‌دنده‌های رینگی و خورشیدی)",
+        "Gear Racks (چرخ‌شانه و دنده‌شانه‌های دقیق)",
+        "Straight & Spiral Bevel Gears (چرخ‌دنده‌های مخروطی پینیون)",
+        "Worms & Worm Wheels (پیچ و چرخ‌حلزون خودقفل‌شونده)"
+      ],
+      "materials": [
+        "Alloy Steel (SCM435 / SCM440 / 4140) Carburized & Ground",
+        "Carbon Steel (S45C / 1045)",
+        "Stainless Steel (SUS303, SUS304, SUS316) for Food & Pharma",
+        "Engineering Plastics (POM / Acetal, MC Nylon) Lubrication-free",
+        "Phosphor Bronze & Brass for Heavy Worm Drives",
+        "Cast Iron (FC200 / FC250) for High Dynamic Damping"
+      ],
+      "engineering_impact": "Eliminates bespoke hobbing lead times, cuts tool wear costs, guarantees ISO/JIS precision grades with known backlash limits"
+    },
+    "pivot_point_fasteners": {
+      "manufacturer": "Pivot Point Inc.",
+      "featured_products": [
+        "SLIC Pins® (Self-Locking Implanted Cotter Pins)",
+        "Bow-Tie Locking Cotters™",
+        "Rue Ring™ Cotters"
+      ],
+      "operational_mechanisms": {
+        "slic_pin": "Spring-loaded wedge detent built directly into the pin shank; automatically retracts upon insertion and springs open upon exit; toolless single-hand assembly",
+        "bow_tie_cotter": "Contoured spring wire designed to wrap around shaft perimeter and snap onto itself; cannot be dislodged by vibration, snagging wires, or accidental impacts",
+        "rue_ring": "360-degree circumferential locking cotter engineered for high dynamic shear and severe multi-axial mechanical vibration"
+      },
+      "plant_benefits": "Up to 75% reduction in pin assembly cycle time, 100% elimination of missing split pins (Poka-Yoke), zero maintenance stops from detached fasteners"
+    }
+  },
+  "asset_manifest": [
+    {
+      "filename": "00_header_product_spotlight.jpg",
+      "caption": "هدر رسمی خبرنامه Product Spotlight نشریه معتبر بین‌المللی Machine Design (نسخه ۲۶ اکتبر ۲۰۲۶)",
+      "role": "header"
+    },
+    {
+      "filename": "01_dymax_bluewave_fx_line_emitters.jpg",
+      "caption": "سیستم تابش و پخت خطی UV مدل BlueWave FX Line Emitters با شدت تابش ۴.۲ وات بر سانتی‌متر مربع در طول‌های ۷۵ و ۱۵۰ میلی‌متر",
+      "role": "feature_uv_curing"
+    },
+    {
+      "filename": "02_khk_stock_metric_gears.png",
+      "caption": "کاتالوگ جامع چرخ‌دنده‌های استاندارد متریک KHK با بیش از ۲۷,۰۰۰ پیکربندی در انواع ساده، مارپیچ، مخروطی، حلزونی و شانه دنده",
+      "role": "feature_metric_gears"
+    },
+    {
+      "filename": "03_pivot_point_smart_fasteners.jpg",
+      "caption": "اتصالات و پین‌های هوشمند ضد ارتعاش Pivot Point شامل پین خودقفل‌شونده SLIC Pins و اشپیل‌های قفلی Bow-Tie و Rue Ring",
+      "role": "feature_smart_fasteners"
+    }
+  ]
+}

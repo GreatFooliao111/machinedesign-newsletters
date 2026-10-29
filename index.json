@@ -1,0 +1,48 @@
+[
+  {
+    "id": "2026-10-26_metric-gears-uv-curing-smart-fasteners",
+    "date": "2026-10-26",
+    "reference": "machine-design",
+    "reference_name": "Machine Design (Endeavor Business Media)",
+    "category": "maintenance-diagnostics",
+    "category_title_fa": "عیب‌یابی ارتعاشات، یاتاقان‌ها و اجزای ماشین",
+    "title_fa": "کالبدشکافی فنی ۳ نوآوری صنعتی در طراحی ماشین‌آلات: پخت خطی پرتو UV، استانداردسازی چرخ‌دنده‌های متریک و اتصالات خودقفل‌شونده ضد ارتعاش",
+    "sponsors": [
+      "Dymax Corporation",
+      "KHK USA Inc. (Kohara Gear Industry)",
+      "Pivot Point Inc."
+    ],
+    "folder_path": "newsletters/machine-design/maintenance-diagnostics/2026-10-26_metric-gears-uv-curing-smart-fasteners",
+    "article_md": "newsletters/machine-design/maintenance-diagnostics/2026-10-26_metric-gears-uv-curing-smart-fasteners/article.md",
+    "metadata_json": "newsletters/machine-design/maintenance-diagnostics/2026-10-26_metric-gears-uv-curing-smart-fasteners/metadata.json",
+    "image_count": 4,
+    "lead_image": "newsletters/machine-design/maintenance-diagnostics/2026-10-26_metric-gears-uv-curing-smart-fasteners/images/00_header_product_spotlight.jpg",
+    "pillars": [
+      "Pillar 1: Machine Design & Production Lines (طراحی ماشین‌آلات و خطوط تولید - استانداردسازی چرخ‌دنده‌ها، مکانیزم‌های انتقال قدرت و طراحی برای ساخت DFMA)",
+      "Pillar 2: Factory Troubleshooting & Line Optimization (مشاوره فنی، عیب‌یابی ارتعاشات و رفع توقف خطوط - حذف ارتعاشات مخرب و جلوگیری از رها شدن اشپیل‌ها)",
+      "Pillar 3: Industrial R&D & Prototyping (تحقیق، توسعه و امکان‌سنجی خطوط مونتاژ سرعت‌بالا، پخت چسب و کوتینگ پیوسته UV LED)"
+    ]
+  },
+  {
+    "id": "2026-10-22_universal-robots-gen-7-platform",
+    "date": "2026-10-22",
+    "reference": "machine-design",
+    "reference_name": "Machine Design (Endeavor Business Media)",
+    "category": "robotics",
+    "category_title_fa": "رباتیک صنعتی و اتوماسیون همکار",
+    "title_fa": "کالبدشکافی فنی نسل هفتم ربات‌های همکار Universal Robots؛ معماری هوش مصنوعی فیزیکی در لبه و بازطراحی مکانیکی فلنج ابزار",
+    "sponsors": [
+      "Universal Robots (UR)"
+    ],
+    "folder_path": "newsletters/machine-design/robotics/2026-10-22_universal-robots-gen-7-platform",
+    "article_md": "newsletters/machine-design/robotics/2026-10-22_universal-robots-gen-7-platform/article.md",
+    "metadata_json": "newsletters/machine-design/robotics/2026-10-22_universal-robots-gen-7-platform/metadata.json",
+    "image_count": 10,
+    "lead_image": "newsletters/machine-design/robotics/2026-10-22_universal-robots-gen-7-platform/images/00_header_product_spotlight.jpg",
+    "pillars": [
+      "Pillar 1: Machine Design & Production Lines (طراحی ماشین‌آلات و خطوط تولید - رباتیک و سلول‌های همکار)",
+      "Pillar 2: Factory Troubleshooting & Line Optimization (مشاوره فنی، عیب‌یابی ارتعاشات و رفع توقف خطوط)",
+      "Pillar 3: Industrial R&D & Prototyping (تحقیق، توسعه و امکان‌سنجی سلول‌های اتوماسیون هوشمند)"
+    ]
+  }
+]

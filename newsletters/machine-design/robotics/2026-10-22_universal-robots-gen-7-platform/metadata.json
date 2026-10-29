@@ -1,0 +1,97 @@
+{
+  "project_name": "Universal Robots Gen 7 Platform - Product Spotlight & Engineering Analysis",
+  "slug": "universal-robots-gen-7-platform",
+  "category": "robotics",
+  "date": "2026-10-22",
+  "received_at": "2026-10-22T12:07:11Z",
+  "email_metadata": {
+    "message_id": "M0549348803dc4cb019a82126",
+    "thread_id": "T94baed6908b547a2",
+    "from": "Machine Design <MD@news.endeavorb2b.com>",
+    "to": "hoseinvatandoust@atomicmail.ai",
+    "subject": "Machine Design Product Spotlight featuring Universal Robots",
+    "preview": "Product Spotlight - Oct 22nd, 2026 | Power Edge AI with 40% More Compute in Less Space...",
+    "source_publisher": "Endeavor Business Media / Machine Design",
+    "sponsor": "Universal Robots (UR)"
+  },
+  "engineering_pillars": [
+    "Pillar 1: Machine Design & Production Lines (طراحی ماشین‌آلات و خطوط تولید - رباتیک و سلول‌های همکار)",
+    "Pillar 2: Factory Troubleshooting & Line Optimization (مشاوره فنی، عیب‌یابی ارتعاشات و رفع توقف خطوط)",
+    "Pillar 3: Industrial R&D & Prototyping (تحقیق، توسعه و امکان‌سنجی سلول‌های اتوماسیون هوشمند)"
+  ],
+  "technical_specifications": {
+    "controller": {
+      "model": "CB7 Controller",
+      "compute_increase": "+40% processing capacity",
+      "footprint_reduction": "-30% enclosure volume",
+      "software_platform": "PolyScope X (Open architecture OS)",
+      "edge_capabilities": "Local high-performance neural network inference & Physical AI execution without external IPC"
+    },
+    "wrist_interface": {
+      "model": "SP7 Smart Panel",
+      "mounting": "Direct integrated wrist / tool joint",
+      "features": "Zero-distance kinematic path teaching, jog adjustment directly at workpiece, eliminates TP shuttling"
+    },
+    "arm_series": {
+      "generation": "Gen 7 / g-Series Cobot Arms",
+      "tool_flange": "Hollow-wrist integrated internal cable routing",
+      "connections": "Power, Gigabit data bus, dual-channel safety routed through flange",
+      "advantages": "Eliminates external cable dressing/harnesses, prevents snagging, wear, and mechanical fatigue failure"
+    },
+    "partnerships": {
+      "ai_computing": "NVIDIA (Isaac & Omniverse integration for simulation, synthetic data & edge vision)"
+    }
+  },
+  "asset_manifest": [
+    {
+      "filename": "00_header_product_spotlight.jpg",
+      "caption": "هدر رسمی خبرنامه Product Spotlight نشریه Machine Design",
+      "role": "header"
+    },
+    {
+      "filename": "01_universal_robots_logo.jpg",
+      "caption": "لوگوی رسمی کمپانی Universal Robots",
+      "role": "logo"
+    },
+    {
+      "filename": "02_cb7_controller_edge_ai.jpg",
+      "caption": "کنترلر نسل جدید CB7 مجهز به پردازش هوش مصنوعی لبه (Edge AI) با ۴۰٪ توان بیشتر و ۳۰٪ ابعاد فشرده‌تر",
+      "role": "feature_controller"
+    },
+    {
+      "filename": "03_sp7_smart_panel_wrist.jpg",
+      "caption": "پنل هوشمند مچ ربات SP7 Smart Panel برای تیچ مستقیم مسیرها و فرامین حرکتی در محل قطعه‌کار",
+      "role": "feature_wrist_panel"
+    },
+    {
+      "filename": "04_g_series_tool_flange.jpg",
+      "caption": "فلنج ابزار سری g با سیم‌کشی داخلی توان و داده؛ حذف کابل‌کشی‌های معلق و خطرات گیرپاژ",
+      "role": "feature_flange"
+    },
+    {
+      "filename": "05_scale_physical_ai_webinar.jpg",
+      "caption": "وبینار تخصصی مقیاس‌پذیری هوش مصنوعی فیزیکی در خطوط تولید بدون بازطراحی کارخانه",
+      "role": "webinar_scale"
+    },
+    {
+      "filename": "06_nvidia_ur_physical_ai.jpg",
+      "caption": "همکاری انویدیا (NVIDIA) و یونیورسال رباتس در پیاده‌سازی هوش مصنوعی فیزیکی، شبیه‌سازی و بینایی ماشین",
+      "role": "webinar_nvidia"
+    },
+    {
+      "filename": "07_advanced_ai_vision.jpg",
+      "caption": "معماری یکپارچه اتصال مستقیم دوربین‌ها و سنسورهای هوش مصنوعی بینایی ماشین به بازو",
+      "role": "feature_vision"
+    },
+    {
+      "filename": "08_production_challenges_applications.jpg",
+      "caption": "کاربردهای چندگانه صنعتی: جوشکاری، تغذیه ماشین‌ابزار (CNC Tending)، پالتایزینگ و مونتاژ دقیق",
+      "role": "applications"
+    },
+    {
+      "filename": "09_facility_line_walk.jpg",
+      "caption": "برنامه ارزیابی میدانی (Line Walk) و تدوین نقشه راه اتوماسیون سالن تولید",
+      "role": "consulting_walk"
+    }
+  ]
+}

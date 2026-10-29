@@ -1,0 +1,66 @@
+{
+  "references": {
+    "machine-design": {
+      "name": "Machine Design (Endeavor Business Media)",
+      "website": "https://www.machinedesign.com",
+      "country": "USA",
+      "type": "Technical Editorial & Product Spotlights"
+    },
+    "surplex": {
+      "name": "Surplex Industrial Auctions",
+      "website": "https://www.surplex.com",
+      "country": "Germany / EU",
+      "type": "Used Machinery & Production Lines"
+    },
+    "kitmondo": {
+      "name": "Kitmondo Industrial Marketplace",
+      "website": "https://www.kitmondo.com",
+      "country": "International",
+      "type": "Heavy Industrial Machinery"
+    },
+    "alibaba-machinery": {
+      "name": "Alibaba Industrial & Manufacturing",
+      "website": "https://www.alibaba.com",
+      "country": "China",
+      "type": "Direct OEM Machinery & Production Lines"
+    },
+    "chinaplas": {
+      "name": "CHINAPLAS International Exhibition",
+      "website": "https://www.chinaplasonline.com",
+      "country": "China",
+      "type": "Plastics, Rubber & Packaging Machinery"
+    }
+  },
+  "categories": {
+    "robotics": {
+      "title_fa": "رباتیک صنعتی و اتوماسیون همکار",
+      "title_en": "Industrial Robotics & Cobots",
+      "pillar": "Pillar 1: Machine Design & Production Lines"
+    },
+    "maintenance-diagnostics": {
+      "title_fa": "عیب‌یابی ارتعاشات، یاتاقان‌ها و اجزای ماشین",
+      "title_en": "Maintenance, Vibration Diagnostics & Machine Elements",
+      "pillar": "Pillar 2: Factory Troubleshooting & Optimization"
+    },
+    "packaging": {
+      "title_fa": "ماشین‌آلات بسته‌بندی و پرکن",
+      "title_en": "Packaging & Filling Machinery",
+      "pillar": "Pillar 1: Machine Design & Production Lines"
+    },
+    "food-machinery": {
+      "title_fa": "ماشین‌آلات صنایع غذایی و فرآوری",
+      "title_en": "Food Processing & Baking Machinery",
+      "pillar": "Pillar 1: Machine Design & Production Lines"
+    },
+    "design-simulation": {
+      "title_fa": "طراحی سالیدورک، تحلیل FEA و شبیه‌سازی",
+      "title_en": "CAD, FEA Simulation & DFMA",
+      "pillar": "Pillar 4: Advanced Mentorship & Engineering Training"
+    },
+    "procurement-inspection": {
+      "title_fa": "کارشناسی خرید و ارزیابی ماشین‌آلات",
+      "title_en": "Machinery Procurement & Inspection",
+      "pillar": "Pillar 6: Machinery Purchase Advisory & RFQ"
+    }
+  }
+}
