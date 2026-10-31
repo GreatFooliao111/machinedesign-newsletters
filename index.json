@@ -1,5 +1,28 @@
 [
   {
+    "id": "2026-10-29_schneider-automation-vfd-hmi-control-panels",
+    "date": "2026-10-29",
+    "reference": "machine-design",
+    "reference_name": "Machine Design (Endeavor Business Media)",
+    "category": "automation-control",
+    "category_title_fa": "اتوماسیون صنعتی، درایوها و تابلوهای کنترل",
+    "title_fa": "کالبدشکافی فنی نوآوری‌های اتوماسیون صنعتی اشنایدر الکتریک در خبرنامه Machine Design: مبدل‌های آنالوگ ایزوله، درایوهای هوشمند با مدار بای‌پَس، کنتاکتورهای سنگین و معماری تابلوهای کنترل نسل جدید",
+    "sponsors": [
+      "DigiKey",
+      "Schneider Electric"
+    ],
+    "folder_path": "newsletters/machine-design/automation-control/2026-10-29_schneider-automation-vfd-hmi-control-panels",
+    "article_md": "newsletters/machine-design/automation-control/2026-10-29_schneider-automation-vfd-hmi-control-panels/article.md",
+    "metadata_json": "newsletters/machine-design/automation-control/2026-10-29_schneider-automation-vfd-hmi-control-panels/metadata.json",
+    "image_count": 8,
+    "lead_image": "newsletters/machine-design/automation-control/2026-10-29_schneider-automation-vfd-hmi-control-panels/images/00_header_product_spotlight.jpg",
+    "pillars": [
+      "Pillar 1: Machine Design & Production Lines (طراحی ماشین‌آلات و خطوط تولید - استانداردسازی تابلوهای برق، انتخاب درایوهای فرکانس متغیر VFD و ادغام پنل‌های HMI صنعتی)",
+      "Pillar 2: Factory Troubleshooting & Line Optimization (مشاوره فنی، عیب‌یابی تجهیزات و رفع توقف خطوط - مدار بای‌پَس هوشمند برای حذف خاموشی، ایزولاسیون سیگنال‌های آنالوگ و حذف لوپ زمین)",
+      "Pillar 3: Industrial R&D & Prototyping (تحقیق، توسعه و امکان‌سنجی سیستم‌های اتوماسیون لبه مبتنی بر پروتکل‌های باز OPC-UA و معماری تابلوهای برق فشرده)"
+    ]
+  },
+  {
     "id": "2026-10-26_metric-gears-uv-curing-smart-fasteners",
     "date": "2026-10-26",
     "reference": "machine-design",

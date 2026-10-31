@@ -1,0 +1,120 @@
+{
+  "project_name": "Machine Design Product Spotlight (Oct 29, 2026) - Schneider Electric Industrial Automation, VFDs, HMIs & Smart Control Panels via DigiKey",
+  "slug": "schneider-automation-vfd-hmi-control-panels",
+  "category": "automation-control",
+  "date": "2026-10-29",
+  "received_at": "2026-10-29T12:04:49Z",
+  "email_metadata": {
+    "message_id": "M0d888491f9ce25919376ab0d",
+    "thread_id": "T9c7b5d70f2a72e83",
+    "from": "Machine Design <MD@news.endeavorb2b.com>",
+    "to": "hoseinvatandoust@atomicmail.ai",
+    "subject": "Machine Design Product Spotlight featuring DigiKey",
+    "preview": "Product Spotlight - Oct 29th, 2026 | Sponsored by DigiKey | Harmony Analog Converters, S-Flex HVAC VFDs, TeSys Deca Contactors, Pro-face HMIs...",
+    "source_publisher": "Endeavor Business Media / Machine Design",
+    "sponsors": [
+      "DigiKey",
+      "Schneider Electric"
+    ]
+  },
+  "engineering_pillars": [
+    "Pillar 1: Machine Design & Production Lines (طراحی ماشین‌آلات و خطوط تولید - استانداردسازی تابلوهای برق، انتخاب درایوهای فرکانس متغیر VFD و ادغام پنل‌های HMI صنعتی)",
+    "Pillar 2: Factory Troubleshooting & Line Optimization (مشاوره فنی، عیب‌یابی تجهیزات و رفع توقف خطوط - مدار بای‌پَس هوشمند برای حذف خاموشی، ایزولاسیون سیگنال‌های آنالوگ و حذف لوپ زمین)",
+    "Pillar 3: Industrial R&D & Prototyping (تحقیق، توسعه و امکان‌سنجی سیستم‌های اتوماسیون لبه مبتنی بر پروتکل‌های باز OPC-UA و معماری تابلوهای برق فشرده)"
+  ],
+  "technical_specifications": {
+    "harmony_analog_converters": {
+      "manufacturer": "Schneider Electric",
+      "series": "Harmony™ Analog Isolated Signal Converters & Transmitters",
+      "signal_types": [
+        "Thermocouple Inputs (Type J, K)",
+        "RTD Temperature Inputs (Pt100, Pt1000 2/3/4-wire)",
+        "Standard Current Loops (0-20 mA, 4-20 mA)",
+        "Standard Voltage Signals (0-10 V, +/-10 V)",
+        "AC/DC Voltage and Current Transducers"
+      ],
+      "galvanic_isolation": "Up to 2.5 kV dielectric strength between input, output, and power supply",
+      "engineering_impact": "Eliminates industrial electromagnetic noise (EMI/RFI), prevents hazardous ground loops, guarantees signal integrity for high-precision PLC analog inputs"
+    },
+    "sflex_enclosed_vfd": {
+      "model_series": "S-Flex™ SFD212 Enclosed HVAC Variable-Frequency Drive",
+      "core_drive": "Schneider Electric Altivar™ 212 VFD",
+      "power_range": "Fractional to 100+ HP for 3-phase asynchronous induction motors",
+      "control_application": "Variable-torque fan, blower, and centrifugal pump systems",
+      "operational_features": {
+        "bypass_architecture": "Integrated smart mechanical/electronic bypass switch allowing direct-on-line (DOL) motor run during maintenance or inverter faults",
+        "bas_integration": "Native embedded protocols: Modbus, BACnet, Johnson Controls Apogee FLN, LonWorks",
+        "energy_savings": "Affinity laws optimization (P ∝ n³); dynamic harmonic mitigation down to THDi < 30%"
+      },
+      "plant_benefits": "Zero production downtime during drive inspections, over 30% reduction in plant HVAC/pumping electricity consumption, eliminates fluid water hammer"
+    },
+    "tesys_deca_contactors": {
+      "series": "TeSys™ Deca High-Reliability Motor Starters & Contactors",
+      "current_ratings": [
+        "Up to 150 A (AC-3 duty cycle for squirrel-cage motor starting & braking)",
+        "Up to 200 A (AC-1 duty cycle for non-inductive resistive furnace/heater loads)"
+      ],
+      "connection_technology": "Patented EverLink™ creep-compensating terminals (prevents loose screws caused by continuous mechanical vibrations)",
+      "operating_life": "Over 1.5 million electrical cycles at rated AC-3 full load, 15 million mechanical cycles",
+      "applications": "Industrial conveyors, heavy slurry pumps, compressors, agricultural machinery, and modern motor control centers (MCC)"
+    },
+    "proface_series_hmi": {
+      "brand": "Pro-face by Schneider Electric",
+      "display_technology": "Industrial high-brightness resistive & capacitive TFT touchscreens (IP65F / IP67 washdown rated)",
+      "industrial_networking": [
+        "Native OPC-UA Client/Server",
+        "Modbus RTU / Modbus TCP",
+        "EtherNet/IP multi-drop connectivity"
+      ],
+      "edge_capabilities": "Simultaneous multi-PLC cross-talk (connects to Siemens, Rockwell, Omron, and Schneider in one dashboard), recipe management, live fault logging, and secure remote web maintenance"
+    },
+    "smart_panel_architecture": {
+      "design_philosophy": "Design Smart, Build Fast, Run Efficiently",
+      "space_optimization": "Up to 35% footprint reduction in enclosure cabinet dimensions",
+      "thermal_management": "Optimized vertical heat dissipation paths, lower cooling load requirement",
+      "wiring_efficiency": "Push-in terminal spring technology, cutting cabinet assembly and wire termination hours by 40%"
+    }
+  },
+  "asset_manifest": [
+    {
+      "filename": "00_header_product_spotlight.jpg",
+      "caption": "هدر رسمی خبرنامه Product Spotlight نشریه معتبر بین‌المللی Machine Design (نسخه ۲۹ اکتبر ۲۰۲۶)",
+      "role": "header"
+    },
+    {
+      "filename": "01_digikey_sponsor_logo.jpg",
+      "caption": "لوگوی رسمی اسپانسر ویژه خبرنامه؛ توزیع‌کننده جهانی قطعات الکترونیک و اتوماسیون صنعتی DigiKey",
+      "role": "sponsor"
+    },
+    {
+      "filename": "02_schneider_harmony_analog_converters.jpg",
+      "caption": "مبدل‌ها و ایزولاتورهای سیگنال آنالوگ و سنسورهای دمایی سری Harmony اشنایدر الکتریک با استاندارد 4-20mA / 0-10V",
+      "role": "feature_signal_conditioning"
+    },
+    {
+      "filename": "03_schneider_sflex_hvac_vfd.jpg",
+      "caption": "اینورتر و درایو فرکانس متغیر محصور شده S-Flex SFD212 بر پایه Altivar 212 با مدار بای‌پَس هوشمند برای پمپ‌ها و فن‌های صنعتی",
+      "role": "feature_variable_frequency_drives"
+    },
+    {
+      "filename": "04_schneider_tesys_deca_contactors.jpg",
+      "caption": "کنتاکتورهای صنعتی سنگین TeSys Deca تا ۱۵۰ آمپر در رده AC-3 و ۲۰۰ آمپر در رده AC-1 برای راه‌اندازی مطمئن الکتروموتورهای صنعتی",
+      "role": "feature_motor_contactors"
+    },
+    {
+      "filename": "05_schneider_proface_series_hmi.jpg",
+      "caption": "نمایشگرهای لمسی اپراتوری صنعتی Pro-face HMI با مقاومت محیطی بالا و پشتیبانی چندپروتکلی از OPC-UA، Modbus و EtherNet/IP",
+      "role": "feature_industrial_hmi"
+    },
+    {
+      "filename": "06_schneider_xseries_wiring_devices.jpg",
+      "caption": "تجهیزات و کلیدهای وایرینگ سری X اشنایدر با طراحی بدون پیچ، ساختار ضد ضربه و سازگاری با اکوسیستم هوشمند Matter",
+      "role": "feature_wiring_devices"
+    },
+    {
+      "filename": "07_schneider_smart_control_panel_design.jpg",
+      "caption": "معماری جامع تابلوهای کنترل صنعتی اشنایدر: طراحی هوشمندانه، مونتاژ سریع و کاهش چشمگیر ابعاد فیزیکی تابلو برق",
+      "role": "feature_smart_control_panel"
+    }
+  ]
+}

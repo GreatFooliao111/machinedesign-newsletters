@@ -1,7 +1,7 @@
 # 🏭 آرشیو و کالبدشکافی مهندسی خبرنامه‌های صنعتی جهان (MachineDesign Newsletters Vault)
 
 [![MachineDesign.ir](https://img.shields.io/badge/MachineDesign.ir-Engineering%20Intelligence-%238ce70c?style=for-the-badge&logo=probot&logoColor=black)](https://machinedesign.ir)
-[![Total Articles](https://img.shields.io/badge/Articles-2-blue?style=for-the-badge)](#۱-جدول-ایندکس-زمانی-timeline-index)
+[![Total Articles](https://img.shields.io/badge/Articles-3-blue?style=for-the-badge)](#۱-جدول-ایندکس-زمانی-timeline-index)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](./LICENSE)
 
 > این ریپازیتوری پایگاه داده رسمی آرشیو، طبقه‌بندی چندبعدی (**تاریخ**، **موضوع** و **مرجع**)، ترجمه فنی بومی و کالبدشکافی مهندسی مقالات و خبرنامه‌های تخصصی ماشین‌آلات صنعتی جهان متعلق به **دپارتمان تحقیق و توسعه ماشین دیزاین (`MachineDesign.ir`)** است.
@@ -20,12 +20,18 @@
 
 | تاریخ انتشار | عنوان و کالبدشکافی مهندسی (فارسی) | مرجع و ناشر | دسته‌بندی موضوعی | اسپانسر / فناور | مطالعه مقاله |
 | :--- | :--- | :--- | :--- | :--- | :---: |
+| **2026-10-29** | [کالبدشکافی فنی نوآوری‌های اتوماسیون صنعتی اشنایدر الکتریک در خبرنامه Machine Design: مبدل‌های آنالوگ ایزوله، درایوهای هوشمند با مدار بای‌پَس، کنتاکتورهای سنگین و معماری تابلوهای کنترل نسل جدید](newsletters/machine-design/automation-control/2026-10-29_schneider-automation-vfd-hmi-control-panels/article.md) | `Machine Design (Endeavor Business Media)` | **اتوماسیون صنعتی، درایوها و تابلوهای کنترل** | DigiKey، Schneider Electric | [📖 مطالعه مقاله](newsletters/machine-design/automation-control/2026-10-29_schneider-automation-vfd-hmi-control-panels/article.md) |
 | **2026-10-26** | [کالبدشکافی فنی ۳ نوآوری صنعتی در طراحی ماشین‌آلات: پخت خطی پرتو UV، استانداردسازی چرخ‌دنده‌های متریک و اتصالات خودقفل‌شونده ضد ارتعاش](newsletters/machine-design/maintenance-diagnostics/2026-10-26_metric-gears-uv-curing-smart-fasteners/article.md) | `Machine Design (Endeavor Business Media)` | **عیب‌یابی ارتعاشات، یاتاقان‌ها و اجزای ماشین** | Dymax Corporation، KHK USA Inc. (Kohara Gear Industry)، Pivot Point Inc. | [📖 مطالعه مقاله](newsletters/machine-design/maintenance-diagnostics/2026-10-26_metric-gears-uv-curing-smart-fasteners/article.md) |
 | **2026-10-22** | [کالبدشکافی فنی نسل هفتم ربات‌های همکار Universal Robots؛ معماری هوش مصنوعی فیزیکی در لبه و بازطراحی مکانیکی فلنج ابزار](newsletters/machine-design/robotics/2026-10-22_universal-robots-gen-7-platform/article.md) | `Machine Design (Endeavor Business Media)` | **رباتیک صنعتی و اتوماسیون همکار** | Universal Robots (UR) | [📖 مطالعه مقاله](newsletters/machine-design/robotics/2026-10-22_universal-robots-gen-7-platform/article.md) |
 
 ---
 
 ## ۲. طبقه‌بندی بر اساس موضوع و حوزه مهندسی (Category / Topic)
+
+### 🔹 اتوماسیون صنعتی، درایوها و تابلوهای کنترل (`automation-control`)
+**حوزه تخصصی انگلیسی:** *Industrial Automation, Motor Drives & Control Panels* | **ستون مرتبط:** `Pillar 1: Machine Design & Production Lines`
+
+* **[2026-10-29]** [کالبدشکافی فنی نوآوری‌های اتوماسیون صنعتی اشنایدر الکتریک در خبرنامه Machine Design: مبدل‌های آنالوگ ایزوله، درایوهای هوشمند با مدار بای‌پَس، کنتاکتورهای سنگین و معماری تابلوهای کنترل نسل جدید](newsletters/machine-design/automation-control/2026-10-29_schneider-automation-vfd-hmi-control-panels/article.md) — *مرجع: Machine Design (Endeavor Business Media)*
 
 ### 🔹 عیب‌یابی ارتعاشات، یاتاقان‌ها و اجزای ماشین (`maintenance-diagnostics`)
 **حوزه تخصصی انگلیسی:** *Maintenance, Vibration Diagnostics & Machine Elements* | **ستون مرتبط:** `Pillar 2: Factory Troubleshooting & Optimization`
@@ -44,6 +50,7 @@
 ### 🌐 [Machine Design (Endeavor Business Media)](https://www.machinedesign.com) (`machine-design`)
 **کشور / منطقه:** USA | **ماهیت مرجع:** Technical Editorial & Product Spotlights
 
+* **[2026-10-29]** [کالبدشکافی فنی نوآوری‌های اتوماسیون صنعتی اشنایدر الکتریک در خبرنامه Machine Design: مبدل‌های آنالوگ ایزوله، درایوهای هوشمند با مدار بای‌پَس، کنتاکتورهای سنگین و معماری تابلوهای کنترل نسل جدید](newsletters/machine-design/automation-control/2026-10-29_schneider-automation-vfd-hmi-control-panels/article.md) — *موضوع: اتوماسیون صنعتی، درایوها و تابلوهای کنترل*
 * **[2026-10-26]** [کالبدشکافی فنی ۳ نوآوری صنعتی در طراحی ماشین‌آلات: پخت خطی پرتو UV، استانداردسازی چرخ‌دنده‌های متریک و اتصالات خودقفل‌شونده ضد ارتعاش](newsletters/machine-design/maintenance-diagnostics/2026-10-26_metric-gears-uv-curing-smart-fasteners/article.md) — *موضوع: عیب‌یابی ارتعاشات، یاتاقان‌ها و اجزای ماشین*
 * **[2026-10-22]** [کالبدشکافی فنی نسل هفتم ربات‌های همکار Universal Robots؛ معماری هوش مصنوعی فیزیکی در لبه و بازطراحی مکانیکی فلنج ابزار](newsletters/machine-design/robotics/2026-10-22_universal-robots-gen-7-platform/article.md) — *موضوع: رباتیک صنعتی و اتوماسیون همکار*
 
